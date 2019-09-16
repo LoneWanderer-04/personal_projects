@@ -3,7 +3,7 @@ pygame.init()
 
 size = width, height = 1024, 768
 speed = [1,1]
-black = 255,255,255
+black = 0,155,0
 
 screen = pygame.display.set_mode(size)
 
